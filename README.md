@@ -127,35 +127,36 @@ The overall application flow can be represented as:
 
 The repository includes screenshots demonstrating the primary application screens.
 
-## Main Screen
+### Main Screen
 
 The main application screen provides access to the application's core functionality.
 
-![Main Screen](https://github.com/akshayKarai/Android-Email-App-using-Firebase/blob/master/Main%20Screen.png?raw=true)
+<img src="https://github.com/akshayKarai/Android-Email-App-using-Firebase/blob/master/Main%20Screen.png?raw=true" width="300">
 
 ---
 
-## Sign Up Screen
+### Sign Up Screen
 
 The sign-up screen allows new users to create an account.
 
-![Sign Up Screen](https://github.com/akshayKarai/Android-Email-App-using-Firebase/blob/master/SignUp%20Screen.png?raw=true)
+<img src="https://github.com/akshayKarai/Android-Email-App-using-Firebase/blob/master/SignUp%20Screen.png?raw=true" width="300">
 
 ---
 
-## Inbox
+### Inbox
 
 The inbox displays messages associated with the authenticated user.
 
-![Inbox](https://github.com/akshayKarai/Android-Email-App-using-Firebase/blob/master/Inbox.png?raw=true)
+<img src="https://github.com/akshayKarai/Android-Email-App-using-Firebase/blob/master/Inbox.png?raw=true" width="300">
 
 ---
 
-## Compose Screen
+### Compose Screen
 
 Users can compose and send new messages.
 
-![Compose Screen](https://github.com/akshayKarai/Android-Email-App-using-Firebase/blob/master/Compose%20Screen.png?raw=true)
+<img src="https://github.com/akshayKarai/Android-Email-App-using-Firebase/blob/master/Compose%20Screen.png?raw=true" width="300">
+
 
 ---
 
@@ -363,6 +364,7 @@ The individual screenshots are available in the repository:
 ### Compose Screen
 
 <img src="https://github.com/akshayKarai/Android-Email-App-using-Firebase/blob/master/Compose%20Screen.png?raw=true" width="300">
+
 
 
 ---
