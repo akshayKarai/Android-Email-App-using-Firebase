@@ -348,10 +348,22 @@ The `Message me app.zip` archive contains the original application project files
 
 The individual screenshots are available in the repository:
 
-* [Main Screen](https://github.com/akshayKarai/Android-Email-App-using-Firebase/blob/master/Main%20Screen.png)
-* [Sign Up Screen](https://github.com/akshayKarai/Android-Email-App-using-Firebase/blob/master/SignUp%20Screen.png)
-* [Inbox](https://github.com/akshayKarai/Android-Email-App-using-Firebase/blob/master/Inbox.png)
-* [Compose Screen](https://github.com/akshayKarai/Android-Email-App-using-Firebase/blob/master/Compose%20Screen.png)
+### Main Screen
+
+<img src="https://github.com/akshayKarai/Android-Email-App-using-Firebase/blob/master/Main%20Screen.png?raw=true" width="300">
+
+### Sign Up Screen
+
+<img src="https://github.com/akshayKarai/Android-Email-App-using-Firebase/blob/master/SignUp%20Screen.png?raw=true" width="300">
+
+### Inbox
+
+<img src="https://github.com/akshayKarai/Android-Email-App-using-Firebase/blob/master/Inbox.png?raw=true" width="300">
+
+### Compose Screen
+
+<img src="https://github.com/akshayKarai/Android-Email-App-using-Firebase/blob/master/Compose%20Screen.png?raw=true" width="300">
+
 
 ---
 
